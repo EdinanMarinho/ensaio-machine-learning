@@ -1,3 +1,5 @@
+![ensaio-machine-learning](https://github.com/EdinanMarinho/ensaio-machine-learning/assets/61295729/e746848a-419d-4980-b4c0-b39a19b4e96d)
+
 # Ensaio de Machine Learning
 
 Estudo de Machine Learning investigando algoritmos de Classificação, Regularização e Clusterização, com o propósito de compreender como diferentes hiperparâmetros e a distribuição dos conjuntos de treinamento, validação e teste afetam o desempenho dos modelos de machine learning, podendo resultar em overfitting ou underfitting.
