@@ -143,3 +143,5 @@ Esse ensaio de Machine Learning foi muito importante para aprofundar o  entendim
 
 # Próximos passos
 Como próximos passos desse ensaio, pretendo ensaiar novos algoritmos  de Machine Learning e usar diferentes conjuntos de dados para aumentar  o conhecimento sobre os algoritmos e quais cenários são mais favoráveis  para o aumento da performance dos mesmos.
+
+Também aplicar as habilidades que adquire nesse ensaio em outros projetos, buscando resolver algum problema de negócio.
